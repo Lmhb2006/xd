@@ -1,0 +1,102 @@
+9780547928227;El señor de los anillos: La comunidad del anillo;J. R. R. Tolkien;Fantasía épica;480
+9780547928203;El Hobbit;J. R. R. Tolkien;Fantasía;310
+9780547928197;El señor de los anillos: Las dos torres;J. R. R. Tolkien;Fantasía épica;464
+9780547928198;El señor de los anillos: El retorno del rey;J. R. R. Tolkien;Fantasía épica;448
+9780451524935;1984;George Orwell;Distopía;328
+9780451526342;Rebelión en la granja;George Orwell;Sátira política;144
+9780060883287;Cien años de soledad;Gabriel García Márquez;Realismo mágico;417
+9780307389731;El amor en los tiempos del cólera;Gabriel García Márquez;Realismo mágico;368
+9788497592208;Crónica de una muerte anunciada;Gabriel García Márquez;Realismo mágico;128
+9788437604947;El coronel no tiene quien le escriba;Gabriel García Márquez;Realismo mágico;112
+9780307743656;La casa de los espíritus;Isabel Allende;Realismo mágico;448
+9780061120060;Eva Luna;Isabel Allende;Ficción latinoamericana;352
+9788408172177;El cuaderno de Maya;Isabel Allende;Ficción;384
+9788408223213;Largo pétalo de mar;Isabel Allende;Histórica;384
+9788420431838;La sombra del viento;Carlos Ruiz Zafón;Misterio gótico;576
+9788408163380;El juego del ángel;Carlos Ruiz Zafón;Misterio gótico;672
+9788408096428;El prisionero del cielo;Carlos Ruiz Zafón;Misterio gótico;384
+9788408163381;El laberinto de los espíritus;Carlos Ruiz Zafón;Misterio gótico;928
+9786073194195;Tokio blues (Norwegian Wood);Haruki Murakami;Ficción contemporánea;384
+9788490561966;Kafka en la orilla;Haruki Murakami;Realismo mágico;672
+9788490667484;1Q84 (Libro 1 y 2);Haruki Murakami;Ficción fantástica;736
+9788490667491;1Q84 (Libro 3);Haruki Murakami;Ficción fantástica;496
+9788490563205;La caza del carnero salvaje;Haruki Murakami;Ficción surrealista;384
+9788498387087;Orgullo y prejuicio;Jane Austen;Novela romántica;432
+9780141441146;Emma;Jane Austen;Novela romántica;544
+9780141439518;Sentido y sensibilidad;Jane Austen;Novela romántica;464
+9780142437209;Jane Eyre;Charlotte Brontë;Bildungsroman;624
+9780140449136;Crimen y castigo;Fiódor Dostoyevski;Novela psicológica;720
+9780140449242;Los hermanos Karamázov;Fiódor Dostoyevski;Novela filosófica;960
+9780140447934;Guerra y paz;León Tolstói;Novela histórica;1296
+9788484504316;Ana Karenina;León Tolstói;Novela realista;864
+9788491050414;Don Quijote de la Mancha;Miguel de Cervantes;Novela de caballería;1072
+9788491051466;Los miserables;Victor Hugo;Novela social;1456
+9788491050292;El conde de Montecristo;Alexandre Dumas;Aventuras;1312
+9788478888124;Veinte mil leguas de viaje submarino;Jules Verne;Ciencia ficción clásica;464
+9788491051084;La vuelta al mundo en 80 días;Jules Verne;Aventuras;312
+9780141439649;Las aventuras de Tom Sawyer;Mark Twain;Aventuras juveniles;288
+9780142437170;La Ilíada;Homero;Épica clásica;704
+9780142437729;La Odisea;Homero;Épica clásica;560
+9780140440103;La divina comedia;Dante Alighieri;Poesía épica;736
+9780141439472;Frankenstein;Mary Shelley;Gótico;304
+9780141439847;Drácula;Bram Stoker;Gótico;544
+9780141442465;Las aventuras de Sherlock Holmes;Arthur Conan Doyle;Detective;432
+9780062073488;Asesinato en el Orient Express;Agatha Christie;Misterio;288
+9780007525508;Diez negritos;Agatha Christie;Misterio;264
+9780545582889;Harry Potter y la piedra filosofal;J. K. Rowling;Fantasía juvenil;320
+9780545582926;Harry Potter y la cámara secreta;J. K. Rowling;Fantasía juvenil;352
+9780545139700;Harry Potter y el prisionero de Azkaban;J. K. Rowling;Fantasía juvenil;448
+9780007117116;El león, la bruja y el armario;C. S. Lewis;Fantasía infantil;208
+9780007117307;El príncipe Caspian;C. S. Lewis;Fantasía infantil;240
+9780547572482;¿Sueñan los androides con ovejas eléctricas?;Philip K. Dick;Ciencia ficción;256
+9788445074609;Fundación;Isaac Asimov;Ciencia ficción;288
+9788445074647;Fundación e Imperio;Isaac Asimov;Ciencia ficción;272
+9788445074661;Segunda Fundación;Isaac Asimov;Ciencia ficción;272
+9788466346405;Fahrenheit 451;Ray Bradbury;Ciencia ficción distópica;256
+9780060850524;Un mundo feliz;Aldous Huxley;Distopía;288
+9788499890944;La guerra de los mundos;H. G. Wells;Ciencia ficción;240
+9780441172719;Dune;Frank Herbert;Ópera espacial;688
+9788490323885;Los juegos del hambre;Suzanne Collins;Distopía juvenil;400
+9788490323892;En llamas;Suzanne Collins;Distopía juvenil;416
+9788490323908;Sinsajo;Suzanne Collins;Distopía juvenil;432
+9788497594319;El cuento de la criada;Margaret Atwood;Distopía feminista;416
+9780345816023;Los testamentos;Margaret Atwood;Distopía;448
+9780061122415;El alquimista;Paulo Coelho;Fábula filosófica;208
+9788497592452;El viejo y el mar;Ernest Hemingway;Narrativa;128
+9780141441673;El corazón de las tinieblas;Joseph Conrad;Novela corta;160
+9780142437279;El retrato de Dorian Gray;Oscar Wilde;Ficción gótica;272
+9780142437248;Moby-Dick;Herman Melville;Aventuras marítimas;720
+9780156012195;El Principito;Antoine de Saint-Exupéry;Fábula;96
+9781594631931;Cometas en el cielo;Khaled Hosseini;Drama histórico;384
+9788499082470;Mil soles espléndidos;Khaled Hosseini;Drama histórico;448
+9780307387896;La chica del dragón tatuado;Stieg Larsson;Thriller;672
+9780307949483;La chica que soñaba con una cerilla y un bidón de gasolina;Stieg Larsson;Thriller;720
+9780307739961;La reina en el palacio de las corrientes de aire;Stieg Larsson;Thriller;848
+9780679732761;Los versos satánicos;Salman Rushdie;Realismo mágico;576
+9788483832199;La insoportable levedad del ser;Milan Kundera;Filosófica;344
+9788499187267;El nombre del viento;Patrick Rothfuss;Fantasía épica;880
+9788499187441;El temor de un hombre sabio;Patrick Rothfuss;Fantasía épica;1200
+9788445072674;Un mago de Terramar;Ursula K. Le Guin;Fantasía;240
+9780553380958;Criptonomicón;Neal Stephenson;Tecnothriller;1168
+9780553573428;Juego de tronos;George R. R. Martin;Fantasía épica;864
+9780553579901;Choque de reyes;George R. R. Martin;Fantasía épica;1040
+9780553573422;Tormenta de espadas;George R. R. Martin;Fantasía épica;1216
+9780553582028;Festín de cuervos;George R. R. Martin;Fantasía épica;976
+9780553801477;Danza de dragones;George R. R. Martin;Fantasía épica;1184
+9780156027328;La vida de Pi;Yann Martel;Aventura filosófica;368
+9780385474542;Todo se desmorona;Chinua Achebe;Realismo africano;224
+9780345806789;Nunca me abandones;Kazuo Ishiguro;Ficción distópica;304
+9780007442918;El gigante enterrado;Kazuo Ishiguro;Fantasía histórica;336
+9780143124543;Americanah;Chimamanda Ngozi Adichie;Ficción contemporánea;608
+9780307277695;Medio sol amarillo;Chimamanda Ngozi Adichie;Ficción histórica;560
+9788401022189;La ciudad y los perros;Mario Vargas Llosa;Realismo urbano;544
+9788408083763;Conversación en La Catedral;Mario Vargas Llosa;Realismo político;768
+9788466321181;El psicoanalista;John Katzenbach;Thriller psicológico;480
+9788401018163;La catedral del mar;Ildefonso Falcones;Novela histórica;672
+9788420469282;El médico;Noah Gordon;Novela histórica;800
+9780307957801;El marciano;Andy Weir;Ciencia ficción;384
+9788403512119;It;Stephen King;Terror;1504
+9781501142970;El resplandor;Stephen King;Terror;688
+9780307743657;Carrie;Stephen King;Terror;304
+9788413142049;El hombre que amaba los perros;Leonardo Padura;Novela histórica;576
+9788498387040;La verdad sobre el caso Harry Quebert;Joël Dicker;Thriller;672
